@@ -1,0 +1,5 @@
+Financial Tracker is a mobile application developed with Kotlin that helps users take control of their personal finances. The app provides a convenient way to record, organize, and monitor financial data, including income, expenses, and other custom categories. By keeping all financial information in one place, users can easily review their spending habits, track earnings, and gain a clearer understanding of their financial status.
+
+The application is designed with a clean and user-friendly interface, making it simple for anyone to log daily transactions and stay on top of their budget. Users can update their records at any time, view summaries of their financial activities, and analyze where their money is going. This helps build better financial discipline and supports smarter decision-making.
+
+Built natively in Kotlin, the app leverages modern Android development practices to ensure smooth performance, scalability, and maintainability. Future improvements could include data visualization (charts and graphs), export options, and reminders to make financial tracking even more powerful.
