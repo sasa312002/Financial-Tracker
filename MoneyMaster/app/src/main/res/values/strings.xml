@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Money Master</string>
+    <string name="title">Title</string>
+    <string name="add_transaction">Add Transaction</string>
+    <string name="amount">Amount</string>
+    <string name="date">Date</string>
+    <string name="income">Income</string>
+    <string name="expense">Expense</string>
+    <string name="category">Category</string>
+    <string name="notes">Notes</string>
+    <string name="save">Save</string>
+</resources>
