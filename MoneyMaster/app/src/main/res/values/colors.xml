@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FF8B5EFC</color>  <!-- Darkened from #FFD7B0FF -->
+    <color name="purple_500">#FF5200CC</color>  <!-- Darkened from #FF9B4DFF -->
+    <color name="purple_700">#FF29007A</color>  <!-- Darkened from #FF6E4DFF -->
+    <color name="teal_200">#FF009688</color>   <!-- Darkened from #FF66E6D5 -->
+    <color name="teal_700">#FF00796B</color>   <!-- Darkened from #FF4DB6AC -->
+    <color name="black">#FF212121</color>      <!-- Darkened from #FF424242 (near pure black) -->
+    <color name="white">#FFFFFFFF</color>      <!-- Unchanged -->
+    <color name="dark_blue">#FF1E2C3D</color>  <!-- Darkened from #FF455A7A -->
+    <color name="dark_blue2">#FF1A3A7A</color> <!-- Darkened from #FF6B8ED5 -->
+    <color name="red">#FFD32F2F</color>        <!-- Darkened from #FFFF6666 -->
+    <color name="green">#FF388E3C</color>      <!-- Darkened from #FF80C784 -->
+    <color name="income_green">#FF2E7D32</color>  <!-- Darkened from #FF80C784 -->
+    <color name="expense_red">#FFC62828</color>  <!-- Darkened from #FFF77A73 -->
+</resources>
